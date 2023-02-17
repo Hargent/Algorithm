@@ -3,11 +3,7 @@
  * @param {number} target
  * @return {number[]}
  */
-/**
- * @param {number[]} nums
- * @param {number} target
- * @return {number[]}
- */
+
 // var searchRange = function(nums, target) {
 //     const lastIndex = nums.lastIndexOf(target);
 // 	const firstIndex = nums.indexOf(target);
